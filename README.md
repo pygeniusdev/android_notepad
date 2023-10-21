@@ -1,4 +1,5 @@
 # PyWord Mobile
+![image](https://github.com/pygeniusgithub/pyword_mobile/assets/114565383/a3801c2b-2c76-494b-a772-49f7a5a83fdd)
 
 Welcome to the PyWord Mobile project! This is a mobile word processing application that aims to provide a user-friendly and efficient platform for creating and editing documents on your mobile device. Please note that this project is currently in development and is released under the GNU General Public License (GPL) version 3. While it has the potential to be great, it is not yet ready for production use. The first demo version, 0.1.4a, showcases some of the early features and functionalities we're working on.
 
